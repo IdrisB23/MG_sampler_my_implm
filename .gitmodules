@@ -1,0 +1,6 @@
+[submodule "dense_depth"]
+	path = dense_depth
+	url = https://github.com/IdrisB23/dense_depth
+[submodule "multi-box_ssd"]
+	path = multi-box_ssd
+	url = https://github.com/IdrisB23/multi-box_ssd

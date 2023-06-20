@@ -1,0 +1,5 @@
+multi-box_ssd/demo
+**/*.avi
+**/pre-trained_models
+sampled_frames
+__pycache__
