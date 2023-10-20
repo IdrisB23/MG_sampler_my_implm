@@ -1,0 +1,8 @@
+input_vid_path=example.mp4
+extracted_frames_path=orig
+nb_frames_tb_extracted=10
+downscaled_frames_path=downscaled
+ssd_processed_frames_path=ssd
+ssd_model_path=ssd300_mAP_77.43_v2.pth
+depth_processed_frames_path=depth
+depth_model_path=nyu.h5
